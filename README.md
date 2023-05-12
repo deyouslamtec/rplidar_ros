@@ -1,4 +1,4 @@
-# SLAMTEC LIDAR ROS2 Package
+# SLAMTEC LIDAR ROS2 Package | [Chinese](./README.zh-CN.md)
 
 ROS2 node for SLAMTEC LIDAR
 
